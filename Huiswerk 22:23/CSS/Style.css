@@ -1,0 +1,27 @@
+
+body {
+  background-color: #CECECE;
+  font-family: fantasy;
+}
+button {
+  display: inline-block;
+}
+.container-sm {
+  background: #999999;
+  height: 100%
+}
+footer {
+    font-size: 10px;
+    text-align: right;
+    padding: 10px;
+    height:200px;
+    width:auto;
+    background-color: #DADADA;
+    opacity: 0.5;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: black;
+}
+img {
+  float: center;
+}
